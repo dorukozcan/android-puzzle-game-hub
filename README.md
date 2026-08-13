@@ -59,3 +59,7 @@ Then either open the project in **Android Studio** and run it on an emulator or 
 
 - This was a university team project; it is published here as a coursework portfolio piece.
 - The application ID is still the scaffold default (`com.example.project3`) and the games use the default Android theme rather than a custom design system.
+
+## License
+
+Released under the [MIT License](LICENSE). This was a university team project; the copyright is held jointly by the project team.
