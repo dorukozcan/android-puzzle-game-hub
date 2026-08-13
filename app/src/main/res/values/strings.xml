@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">project3</string>
+    <string name="button">Button</string>
+    <string name="assdsdasd">assdsdasd</string>
+    <string name="guess_the_number">guess the number</string>
+    <string name="game2">game2</string>
+    <string name="rock_paper_scissor">rock,paper,scissor</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="start">start</string>
+    <string name="todo">TODO</string>
+    <string name="reset">Reset</string>
+    <string name="enter_a_letter">Enter a letter</string>
+    <string name="player_1_0">Player 1: 0</string>
+    <string name="player_2_0">Player 2: 0</string>
+    <string name="reflex_game">reflex game</string>
+    <string name="scramble">scramble</string>
+    <string name="whack_a_mole">Whack-a-Mole</string>
+    <string name="hangman">hangman</string>
+    <string name="game7">game7</string>
+    <string name="solve_arithmetic_problems">solve arithmetic problems</string>
+    <string name="game9">game9</string>
+</resources>
